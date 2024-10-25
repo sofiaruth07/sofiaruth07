@@ -1,1 +1,1 @@
-hello, Sofia!
+hello
